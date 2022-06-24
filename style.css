@@ -33,7 +33,8 @@ body {
     cursor: pointer;
 }
 
-.nav-container, .flex-container {
+.nav-container,
+.flex-container {
     width: 1080px;
     margin: 0 auto;
     display: flex;
